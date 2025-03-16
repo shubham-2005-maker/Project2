@@ -1,0 +1,7 @@
+echo "Hello, this is the main branch"
+
+echo "This change is from feature branch"
+echo "This change is from main branch" 
+
+echo "This change is from feature branch"
+ feature-branch
